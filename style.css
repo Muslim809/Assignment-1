@@ -183,7 +183,7 @@ li a {
 .icon-img-star {
   width: 20px; /* Set the width of the icon */
   height: 20px; /* Set the height of the icon */
-  background-image: url("/Assets/icon-star\ -\ Copy.png"); /* Path to your PNG file */
+  background-image: url("/Assets/icon-star.png"); /* Path to your PNG file */
   background-size: contain; /* Ensure the image fits within the element */
  re
   background-position: center; /* Center the image */
